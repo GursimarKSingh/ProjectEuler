@@ -5,7 +5,7 @@ Problem 1: Mutiples of 5 and 3
 
     The purpose of this challege is to add all natural numbers less than the input that are multiples of 5 or 3 
 
-    ex: inpit = 10; 3 + 5 + 6 + 9 = 23
+    ex: input = 10; 3 + 5 + 6 + 9 = 23
 
 Problem 2: Even Fibonnacci numbers 
 
