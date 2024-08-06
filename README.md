@@ -3,8 +3,9 @@ Founded by Colin Hughes in 2001, it provides a platform for individuals to impro
 
 Problem 1: Mutiples of 5 and 3 
 
-    The purpose of this challege is to add all natural numbers less than the input that are multiples of 5 or 3 
-
+    The purpose of this challege is to add all natural numbers less than the input that are   
+    multiples of 5 or 3 
+    
     ex: input = 10; 3 + 5 + 6 + 9 = 23
 
 Problem 2: Even Fibonnacci numbers 
@@ -12,6 +13,12 @@ Problem 2: Even Fibonnacci numbers
     Add only the postive numbers of the fibannacci sequences 
 
     ex: 2 + 8 + 34 + 144 = 188
+    
+Problem 3: Largest Prime Numbers 
+
+    Given a postive number, find the largest prime factor of that number 
+
+    ex: input = 13195; 29 would be the largest prime factor
 
     
 
