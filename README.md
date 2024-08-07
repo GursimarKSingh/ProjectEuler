@@ -1,7 +1,7 @@
 Project Euler is a collection of challenging mathematical and computational problems intended to be solved with computer programs.
 Founded by Colin Hughes in 2001, it provides a platform for individuals to improve their problem-solving and programming skills.
 
-This respository also contains the input and output library 
+This repository also contains the input and output library 
 
 Problem 1: Mutiples of 5 and 3 
 
