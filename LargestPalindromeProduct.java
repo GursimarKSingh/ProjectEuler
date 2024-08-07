@@ -6,8 +6,8 @@ public class LargestPalindromeProduct {
         int largestnum = 0;
 
 
-        for (int i = 1; i < 1000; i++){
-            for(int j = 1; j < 1000; j++){
+        for (int i = 100; i < 1000; i++){
+            for(int j = 100; j < 1000; j++){
 
                 int product = i* j;
                 String str = Integer.toString(product);
