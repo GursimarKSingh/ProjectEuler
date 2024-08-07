@@ -21,6 +21,17 @@ Problem 3: Largest Prime Numbers
     Given a postive number, find the largest prime factor of that number 
 
     ex: input = 13195; 29 would be the largest prime factor
+    
+Problem 4 
+
+    A palindromic number reads the same both ways. The largest palindrome made from the product     of 2 two-digit numbers is 91 x 99 = 9009 
+
+    the purpose of this problem is to find the largest palindrome frome the product of 2 three     digit numebers
+
+Problem 5
+
+    
+.
 
     
 
